@@ -1,0 +1,8 @@
+awslambdaric
+libsvm
+motor
+boto3
+Pillow
+numpy
+scikit-image
+scipy
